@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+    <title>Habanos.to</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+   
+    <style>
+        body{
+            background-color: antiquewhite;
+        }
+
+        p{
+            color: rgb(247, 235, 235);
+            text-align: center;
+        }
+    </style>
+
+</head>
+<body>
+    
+    <nav class="navbar navbar-default" style="background-color: black">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <img  src="https://github.com/harranzh/CS530L4/blob/main/images/habanos-logo.jpg?raw=true" alt="logo" style="width: 130px; height: 50px; align-content: center">
+            </div>
+            <p class="navbar-text">LA CASA DEL HABANO - UNIQUE SINCE 1942</p>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="#home">HOME</a></li>
+                <li><a href="#history">HISTORY</a></li>
+                <li><a href="#brands">BRANDS</a></li>
+                <li><a href="#products">PRODUCTS</a></li>
+                <li><a href="#contactus">CONTACT US</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="content">
+        <div id="images">
+                
+        </div>
+    </div>
+
+    <div id="footer" style="background-color: black; position: absolute; bottom: 0px; width: 100%;">
+        <div class="row">
+            <div class="col-md-6">
+                <img src="https://github.com/harranzh/CS530L4/blob/main/images/bottom-tag.jpg?raw=true" alt="bottom-tag">
+            </div>
+            <div class="col-md-6">
+                <p>By: Harrison Arranz-Hurtado</p>
+                <p>Student Number: 500518860</p>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $( "#images" ).load( "index.html" );
+        });
+    </script>
+</body>
+</html>

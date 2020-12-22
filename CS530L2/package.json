@@ -1,0 +1,23 @@
+{
+  "name": "cs530l2",
+  "version": "1.0.0",
+  "description": "A page with more CSS and HTML involved, along with implementation of table.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harranzh/CS530L2.git"
+  },
+  "author": "Harrison Arranz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harranzh/CS530L2/issues"
+  },
+  "homepage": "https://github.com/harranzh/CS530L2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}

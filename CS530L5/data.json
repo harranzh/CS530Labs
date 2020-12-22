@@ -1,0 +1,49 @@
+[
+    {
+        "Name" : "Air Jordan I",
+        "YearOfRelease" : 1985,
+        "Ranking" : 1,
+        "Image" : "https://usa.inquirer.net/files/2019/06/Air-Jordan-1-620x382.jpg",
+        "InterestingFact" : "This iconic pair of sneakers was Micheal Jordan's first signature shoe as a rookie. Even though the design of the shoes was horrible for playing basketball, it became an iconic fashionable sneaker."
+    },
+
+    {
+        "Name" : "Air Jordan III",
+        "YearOfRelease" : 1988,
+        "Ranking" : 2,
+        "Image" : "https://usa.inquirer.net/files/2019/06/Air-Jordan-III-Black-Cement-620x382.jpg",
+        "InterestingFact" : "What makes these cooler than most is the textured look on the toe and heel of the shoe, something that was almost unheard of in those days of shoe design."
+    },
+
+    {
+        "Name" : "Air Jordan IV",
+        "YearOfRelease" : 1989,
+        "Ranking" : 3,
+        "Image" : "https://usa.inquirer.net/files/2019/06/Air-Jordan-IV-Black-Cement-620x382.jpg",
+        "InterestingFact" : "Aside from the terrific color mixture in these, with the grey and red sole, the white base and the black body, the best part about this shoe has to be the eyelets at the top and bottom of the tongue."
+    },
+
+    {
+        "Name" : "Air Jordan XI - Space Jam",
+        "YearOfRelease" : 2000,
+        "Ranking" : 4,
+        "Image" : "https://usa.inquirer.net/files/2019/06/Air-Jordan-Retro-Space-Jam-620x382.jpg",
+        "InterestingFact" : "Michael Jordan wore these shoes to defeat the Space Monters team in the cartoon movie Space Jam."
+    },
+
+    {
+        "Name" : "Air Jordan VI",
+        "YearOfRelease" : 1991,
+        "Ranking" : 5,
+        "Image" : "https://usa.inquirer.net/files/2019/06/Air-Jordan-Infrared-620x382.jpg",
+        "InterestingFact" : "These were the first pair of shoes that Michael Jordan ever won a championship while wearing."
+    },
+
+    {
+        "Name" : "Air Jordan III - White Cement",
+        "YearOfRelease" : 1988,
+        "Ranking" : 6,
+        "Image" : "https://usa.inquirer.net/files/2019/06/Air-Jordan-III-White-Cement-620x382.jpg",
+        "InterestingFact" : "First sneaker in Jordan line to show Nike's air technology in the sole of the shoe."
+    }
+]
