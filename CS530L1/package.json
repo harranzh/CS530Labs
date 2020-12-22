@@ -1,0 +1,23 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "serving static page with node express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harranzh/CS530L1.git"
+  },
+  "author": "Harrison Arranz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harranzh/CS530L1/issues"
+  },
+  "homepage": "https://github.com/harranzh/CS530L1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
