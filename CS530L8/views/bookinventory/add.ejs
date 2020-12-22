@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Add Book</title>
+    
+    </script>
+    <style>
+        body {
+            background-color: whitesmoke
+        }
+        .container {
+            border-radius: 5px;
+            background-color: #f2f2f2;
+            padding: 20px;
+        }
+
+        form {
+            border: 1px solid #ccc;
+        }
+        input[type=text] {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center; font-style: italic">ADD A BOOK TO OUR INVENTORY</h1>
+
+    </div>
+    <form action="/bookinventory/add" id="form" method="POST">
+        <div class="container">
+            <label for="title">Book Title</label>
+            <input type="text" name="title" id="title">
+        </div>
+        <div class="container">
+            <label for="title">Book Author</label>
+            <input type="text" name="author" id="author">
+        </div>
+        <div class="container">
+            <label for="title">Book Publisher</label>
+            <input type="text" name="publisher" id="publisher">
+        </div>
+        <div class="container">
+            <label for="title">Book Date</label>
+            <input type="text" name="date" id="date">
+        </div>
+        <div class="container">
+            <label for="title">Book Website</label>
+            <input type="text" name="website" id="website">
+        </div>
+        <div class="container">
+            <button id="add">Add Book</button>
+        </div>
+</form>
+</body>
+
+</html>
